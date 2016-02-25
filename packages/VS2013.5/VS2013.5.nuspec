@@ -4,11 +4,21 @@
         <id>VS2013.5</id>
         <version>1.0.0</version>
         <title>Visual Studio 2013 Update 5</title>
-        <authors>Maarten Balliauw</authors>
-        <owners>Maarten Balliauw</owners>
-        <projectUrl>https://www.visualstudio.com/en-us/downloads/download-visual-studio-vs#d-visual-studio-2013-update</projectUrl>
+        <authors>Microsoft</authors>
+        <owners>Maarten Balliauw, Jakub Bereżański</owners>
+        <projectUrl>https://support.microsoft.com/en-us/kb/3021976</projectUrl>
         <requireLicenseAcceptance>false</requireLicenseAcceptance>
-        <description>Visual Studio 2013 Update 5</description>
-        <tags>Microsoft Visual Studio VisualStudio 2013 VS VS2013 Update 5</tags>
+        <description>
+Visual Studio 2013 updates are cumulative releases that include new features and fixes that were delivered in previous Visual Studio 2015 Updates.
+
+What's new in Visual Studio 2013 Update 5
+
+  - Cloud-based load testing from Azure datacenters worldwide
+  - Current iteration query token
+  - Team Project Rename support for Local Workspaces
+
+For a list of fixed bugs, known issues and workarounds, see [this page](https://support.microsoft.com/en-us/kb/3021976).
+        </description>
+        <tags>Microsoft Visual Studio VisualStudio 2013 VS VS2013 Update 5 KB3021976 admin</tags>
     </metadata>
 </package>
